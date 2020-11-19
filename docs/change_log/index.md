@@ -3,6 +3,9 @@ title: Change Log
 Python-Markdown Change Log
 =========================
 
+Nov 19, 2020: Released Beta 2.6.12 (a bug-fix beta release). 
+Fixes #1065. Kudos to @qbolec for BRK regex improvement.
+
 Jan 4, 2018: Released version 2.6.11 (a bug-fix release). Added a new
 `BACKLINK-TITLE` option to the footnote extension so that non-English
 users can provide a custom title to back links (see #610).
